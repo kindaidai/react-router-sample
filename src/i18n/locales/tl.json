@@ -1,0 +1,30 @@
+{
+  "actions": {
+    "submit": "Ipasa",
+    "toggle_theme": "Hitsura",
+    "sending": "Nagpapadala ..."
+  },
+  "attributes": {
+    "links": {
+      "powered_by": "Pinapagana ng TableCheck",
+      "report_issue": "Mag-ulat ng isang isyu",
+      "about": "Tungkol sa proyekto"
+    },
+    "titles": {
+      "headline": "Hello World!"
+    },
+    "pages": {
+      "about_us": "Sa <0> tablecheck </0> gusto namin ang pagkonekta sa mga kainan sa mga restawran. Ang layunin ng app na ito ay upang...",
+      "about_us_salute": "Hoy, ikaw!",
+      "report_issue": "Kung nakakita ka ng anumang maling nilalaman o anumang bagay na maaaring mapabuti sa site, mangyaring iulat ito gamit ang form sa ibaba. Maraming salamat!"
+    }
+  },
+  "keywords": {
+    "thank_you": "Salamat! Susuriin namin ang iyong pagsusumite",
+    "anonymous": "Hindi nagpapakilala",
+    "your_name": "Ang pangalan mo",
+    "your_email": "Ang email mo",
+    "message": "Mensahe",
+    "app_name": "SPA Boilerplate"
+  }
+}

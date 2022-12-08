@@ -1,0 +1,30 @@
+{
+  "actions": {
+    "submit": "Hantar",
+    "toggle_theme": "Penampilan",
+    "sending": "Menghantar ..."
+  },
+  "attributes": {
+    "links": {
+      "powered_by": "Dikuasakan oleh TableCheck",
+      "report_issue": "Laporkan masalah",
+      "about": "Kira-kira"
+    },
+    "titles": {
+      "headline": "Hai dunia!"
+    },
+    "pages": {
+      "about_us": "Di <0>tablecheck</0> kami suka menghubungkan pengunjung dengan restoran. Tujuan aplikasi ini adalah untuk...",
+      "about_us_salute": "Hai ada!",
+      "report_issue": "Sekiranya anda melihat kandungan yang salah atau sesuatu yang dapat diperbaiki di laman web ini, sila laporkan menggunakan borang di bawah. Terima kasih banyak - banyak!"
+    }
+  },
+  "keywords": {
+    "thank_you": "Terima kasih! Kami akan menyemak penghantaran anda",
+    "anonymous": "Tanpa Nama",
+    "your_name": "Nama awak",
+    "your_email": "Emel anda",
+    "message": "Mesej",
+    "app_name": "SPA Boilerplate"
+  }
+}

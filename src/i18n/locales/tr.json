@@ -1,0 +1,30 @@
+{
+  "actions": {
+    "submit": "Sunmak",
+    "toggle_theme": "Görünüm",
+    "sending": "Gönderiliyor ..."
+  },
+  "attributes": {
+    "links": {
+      "powered_by": "TableCheck tarafından desteklenmektedir",
+      "report_issue": "Sorun bildirin",
+      "about": "Hakkında"
+    },
+    "titles": {
+      "headline": "Selam Dünya!"
+    },
+    "pages": {
+      "about_us": "<0>tablecheck</0>'te, akşam yemeklerini restoranlarla buluşturmayı seviyoruz. Bu uygulamanın amacı...",
+      "about_us_salute": "Selam!",
+      "report_issue": "Sitede herhangi bir yanlış içerik veya iyileştirilebilecek bir şey görürseniz, lütfen aşağıdaki formu kullanarak bildirin. Çok teşekkür ederim!"
+    }
+  },
+  "keywords": {
+    "thank_you": "Teşekkür ederim! Gönderinizi gözden geçireceğiz",
+    "anonymous": "Anonim",
+    "your_name": "Adınız",
+    "your_email": "E-posta adresiniz",
+    "message": "İleti",
+    "app_name": "SPA Boilerplate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "actions": {
+    "submit": "إرسال",
+    "toggle_theme": "مظهر خارجي",
+    "sending": "إرسال..."
+  },
+  "attributes": {
+    "links": {
+      "powered_by": "مدعوم من TableCheck",
+      "report_issue": "بلغ عن خطأ",
+      "about": "حول"
+    },
+    "titles": {
+      "headline": "مرحبا بالعالم!"
+    },
+    "pages": {
+      "about_us": "في <0tablecheck </0> نحب ربط رواد المطعم بالمطاعم. لهذا الغرض من هذا التطبيق هو ...",
+      "about_us_salute": "مرحبا يا من هناك!",
+      "report_issue": "إذا رأيت أي محتوى خاطئ أو شيء يمكن تحسينه في الموقع ، فيرجى الإبلاغ عنه باستخدام النموذج أدناه. شكرا جزيلا!"
+    }
+  },
+  "keywords": {
+    "thank_you": "شكرا لك! سنراجع ما أرسلته",
+    "anonymous": "مجهول",
+    "your_name": "اسمك",
+    "your_email": "بريدك الالكتروني",
+    "message": "رسالة",
+    "app_name": "SPA Boilerplate"
+  }
+}

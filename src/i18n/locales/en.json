@@ -1,0 +1,30 @@
+{
+  "actions": {
+    "submit": "Submit",
+    "toggle_theme": "Appearance",
+    "sending": "Sending ..."
+  },
+  "attributes": {
+    "links": {
+      "powered_by": "Powered by TableCheck",
+      "report_issue": "Report an issue",
+      "about": "About"
+    },
+    "titles": {
+      "headline": "Hello World!"
+    },
+    "pages": {
+      "about_us": "At <0>tablecheck</0> we love connecting diners with restaurants. The purpose of this app is to...",
+      "about_us_salute": "Hey there!",
+      "report_issue": "If you see any wrong content or something that could be improved in the app, please report it using the form below. Thank you very much!"
+    }
+  },
+  "keywords": {
+    "thank_you": "Thank you! We'll review your submission",
+    "anonymous": "Anonymous",
+    "your_name": "Your name",
+    "your_email": "Your email",
+    "message": "Message",
+    "app_name": "SPA Boilerplate"
+  }
+}

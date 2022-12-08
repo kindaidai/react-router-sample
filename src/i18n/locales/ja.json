@@ -1,0 +1,30 @@
+{
+  "actions": {
+    "submit": "送信する",
+    "toggle_theme": "外観",
+    "sending": "送信..."
+  },
+  "attributes": {
+    "links": {
+      "powered_by": "Powered by TableCheck",
+      "report_issue": "問題を報告する",
+      "about": "について"
+    },
+    "titles": {
+      "headline": "こんにちは世界"
+    },
+    "pages": {
+      "about_us": "<0>tablecheck</0>では、食事とレストランをつなぐのが大好きです。 このアプリの目的は...",
+      "about_us_salute": "ちょっと、そこ！",
+      "report_issue": "サイトで間違ったコンテンツや改善される可能性のあるものを見つけた場合は、以下のフォームを使用して報告してください。 どうもありがとうございました！"
+    }
+  },
+  "keywords": {
+    "thank_you": "ありがとうございました！提出物を確認します",
+    "anonymous": "匿名",
+    "your_name": "あなたの名前",
+    "your_email": "あなたのメール",
+    "message": "メッセージ",
+    "app_name": "SPA Boilerplate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "actions": {
+    "submit": "Enviar",
+    "toggle_theme": "Apariencia",
+    "sending": "Enviando ..."
+  },
+  "attributes": {
+    "links": {
+      "powered_by": "Desarrollado por TableCheck",
+      "report_issue": "Reportar un problema",
+      "about": "Acerca de"
+    },
+    "titles": {
+      "headline": "Hola mundo!"
+    },
+    "pages": {
+      "about_us": "En <0>tablecheck</0> nos encanta conectar a los comensales con los restaurantes. El objetivo de esta app es...",
+      "about_us_salute": "¡Hola!",
+      "report_issue": "Si ves algún contenido incorrecto o algo que podría mejorarse en el sitio, infórmalo utilizando el formulario a continuación. ¡Muchas gracias!"
+    }
+  },
+  "keywords": {
+    "thank_you": "¡Gracias! Revisaremos tu envío",
+    "anonymous": "Anónimo",
+    "your_name": "Tu nombre",
+    "your_email": "Tu email",
+    "message": "Mensaje",
+    "app_name": "SPA Boilerplate"
+  }
+}

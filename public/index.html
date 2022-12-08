@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link href="/static/img/favicon.ico" rel="icon" />
+    <link
+      href="/static/img/apple-touch-icon.png"
+      rel="apple-touch-icon"
+      sizes="180x180"
+    />
+    <link
+      href="/static/img/favicon-32x32.png"
+      rel="icon"
+      sizes="32x32"
+      type="image/png"
+    />
+    <link
+      href="/static/img/favicon-16x16.png"
+      rel="icon"
+      sizes="16x16"
+      type="image/png"
+    />
+    <link
+      href="<%= webpackConfig.output.publicPath %>site.webmanifest"
+      rel="manifest"
+    />
+    <link
+      color="#7935d2"
+      href="/static/img/safari-pinned-tab.svg"
+      rel="mask-icon"
+    />
+    <meta content="#7935d2" name="msapplication-TileColor" />
+    <meta content="#7935D2" name="theme-color" />
+    <meta
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+      name="viewport"
+    />
+    <title><%= title %></title>
+    <meta content="<%= title %>" property="og:title" />
+    <meta content="Add app description here" property="og:description" />
+    <meta content="/static/img/screenshot.png" property="og:image" />
+    <meta content="https://tc-spa-boilerplate.netlify.app" property="og:url" />
+    <title>SPA Boilerplate</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
