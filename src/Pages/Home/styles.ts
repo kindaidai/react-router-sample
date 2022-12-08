@@ -1,7 +1,6 @@
 import styled from '@emotion/styled';
 
-import { Headline, PageWrapper } from 'styles';
-import { pageTransitionEasing, slideUp } from 'styles';
+import { Headline, PageWrapper, pageTransitionEasing, slideUp } from 'styles';
 
 export const HomeWrapper = styled(PageWrapper)`
   max-width: initial;

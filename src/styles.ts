@@ -1,3 +1,4 @@
+import { keyframes } from '@emotion/react';
 import styled from '@emotion/styled';
 import { Spacing } from '@tablecheck/tablekit-theme';
 import {
@@ -5,7 +6,6 @@ import {
   TypographyHeadlineDesktop
 } from '@tablecheck/tablekit-typography';
 import { Link } from 'react-router-dom';
-import { keyframes } from '@emotion/react';
 
 export const GRID_MARGIN = Spacing.L4;
 export const GRID_DESKTOP_MAX_WIDTH = '74em';

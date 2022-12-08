@@ -2,9 +2,8 @@ import { ordered as orderedLocales } from '@tablecheck/locales';
 import { useTranslation } from 'react-i18next';
 import { Navigate, Route, Routes } from 'react-router-dom';
 
-import { Home } from 'Pages/Home';
-
 import { PageLayout } from 'Common/Page';
+import { Home } from 'Pages/Home';
 
 export const SUPPORTED_LOCALES = orderedLocales.map(({ code }) => code);
 

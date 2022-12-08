@@ -2,6 +2,7 @@ import { LocaleCode, ordered as orderedLocales } from '@tablecheck/locales';
 import i18next from 'i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
 import { initReactI18next } from 'react-i18next';
+
 import en from './locales/en.json';
 
 const SUPPORTED_LOCALES = orderedLocales.map(({ code }) => code);
