@@ -8,6 +8,7 @@ import {
 
 import { PageLayout } from 'Common/Page';
 import { Home } from 'Pages/Home';
+import { Shops, loader as shopsLoader } from 'Pages/Shops';
 
 export const SUPPORTED_LOCALES = orderedLocales.map(({ code }) => code);
 
@@ -34,7 +35,8 @@ export function Router({
         },
         {
           path: 'shops',
-          element: <div>test</div>
+          element: <Shops />,
+          loader: shopsLoader
         }
       ]
     },

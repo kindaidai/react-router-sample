@@ -1,3 +1,7 @@
+# Note
+
+This is a repository to try out the features of the new version of React Router(v6.4.4) .
+
 # TableCheck's SPA Boilerplate
 
 DEMO: [tc-spa-boilerplate.netlify.app](https://tc-spa-boilerplate.netlify.app)

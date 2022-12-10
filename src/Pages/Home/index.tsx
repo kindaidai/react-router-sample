@@ -18,7 +18,7 @@ export function Home(): JSX.Element {
         )}`}</title>
       </Helmet>
       <SearchWrapper>
-        <SearchForm role="search">
+        <SearchForm role="search" action={`/${language}/shops`}>
           <Input
             label="Search"
             type="search"
